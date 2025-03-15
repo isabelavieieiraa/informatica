@@ -1,1 +1,1 @@
-# informatica
+#strig
